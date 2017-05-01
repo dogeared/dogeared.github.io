@@ -1,0 +1,41 @@
+# Site settings
+title: Micah Silverman
+description: >
+  I'm a technology junkie, maker, fitness enthusiast and life long chaotic neutral.
+  I love java, motor cycling, jogging, spring boot, rowing, mongodb, biking, node.js, hiking, clojure and lifting, to name a few.
+url: 'https://afitnerd.com'
+baseurl: '/'
+# google_analytics: 'UA-XXXXXX-X'
+disqus_shortname: 'afitnerd'
+
+author:
+  name: 'Micah Silverman'
+  email:  micah@afitnerd.com
+  twitter_username: afitnerd
+  #facebook_username: micahsilverman
+  github_username:  dogeared
+  linkedin_username:  micahsilverman
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:month/:day/:title/
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+gems: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']

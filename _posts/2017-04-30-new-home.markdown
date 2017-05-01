@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "A Fit Nerd's new home"
+date:   2017-04-30 16:52:41 -0400
+categories: [info]
+tags: [info]
+---
+
+A few days away from 6 years ago I started this blog and hosted it on
+[wordpress](https://wordpress.org/). Wordpress has an awesome community, so many
+plugins and is (relatively) easy to setup. But, I've always found it a bit
+heavyweight for a blog.
+
+As a developer and contributor to many open source projects, I live and breath
+markdown. So, it seems like a more natural fit to use [Jekyll]() for the blog
+tech and to just host it on Github pages. It's free and thanks to the
+[Jekyll-uno](https://github.com/joshgerdes/jekyll-uno) plugin, looks great on
+desktop and mobile.
+
+I am going to port over my posts from over the years, but it will take a little
+while. Since I've been a fair weather blogger (at best), it won't take too long.
+
+In the meantime, I ported over one of my personal favs from back in the day:
+my weekend project of restoring a [Dark Tower](/2011/10/16/weekend-project-fix-dark-tower/) game to its original glory.
