@@ -20,5 +20,8 @@ desktop and mobile.
 I am going to port over my posts from over the years, but it will take a little
 while. Since I've been a fair weather blogger (at best), it won't take too long.
 
+You can see the old posts
+<a href="http://old.afitnerd.com" target="_blank">here</a>.
+
 In the meantime, I ported over one of my personal favs from back in the day:
 my weekend project of restoring a [Dark Tower](/2011/10/16/weekend-project-fix-dark-tower/) game to its original glory.

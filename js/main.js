@@ -32,4 +32,11 @@ $(document).ready(function () {
     $('.btn-mobile-menu__icon').toggleClass('icon-list icon-x-circle animated fadeIn')
   })
 
+  $('#user-image')
+  .delay(1500)
+  .fadeOut(1000, function() {
+    var num = Math.floor(Math.random() * 100) + 1
+    var img = (num%2 == 0) ? 'good' : 'bad';
+    $('#user-image-' + img).fadeIn(1000);
+  });
 })
