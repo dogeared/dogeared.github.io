@@ -2,8 +2,8 @@
 layout: post
 title:  "Killing Distractions, Mac Automator Style"
 date:   2015-08-10 16:52:41 -0400
-categories: [tech productivity]
-tags: [tech productivity]
+categories: [tech, productivity]
+tags: [tech, productivity]
 ---
 
 It has been a long long while since I've posted anything here. Life just kind of got in the way. Lame. Frankly, I've gotten a bit away from the "fit" part of afitnerd.com. Here's what I am excited about: I recently took a position as the Java Developer Evangelist for <a href="https://www.stormpath.com" target="_blank">Stormpath</a>. This is such a wonderful mix of two of my favorite things - programming and writing - I sometimes can't believe my good fortune! Shameless plug alert: I really love Stormpath and what we are up to. Check us out.  And, I've begun putting the "fit" back in. I'm beginning to run again, starting with 3 to 5 sessions per week on the elliptical.
