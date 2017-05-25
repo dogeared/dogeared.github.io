@@ -6,8 +6,6 @@ categories: [programming, java, spring boot]
 tags: [programming, java, spring boot]
 ---
 
-## Slack API + Spring Boot - What could go wrong?
-
 What follows is an unexpected journey to some of the inner workings of Spring
 Boot. In particular, how it handles materializing POJOs from an incoming HTTP
 request. It all started with an innocent look at the Slack API...
