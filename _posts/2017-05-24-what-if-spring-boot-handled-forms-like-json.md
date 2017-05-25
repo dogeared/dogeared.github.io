@@ -127,9 +127,11 @@ Google!
 
 ## ModelAttributes, WebDataBinders and HttpMessageConverters - Oh My!
 
-Turns out, Spring Boot creates Form beans with the [WebDataBinder](). Non-Form
-beans are created using an [HttpMessageConverter](). Spring Boot exposes the
-`MappingJackson2HttpMessageConverter` which handles the JSON mapping magic.
+Turns out, Spring Boot creates Form beans with the [WebDataBinder](http://docs.spring.io/spring/docs/current/javadoc-api/org/springframework/web/bind/WebDataBinder.html).
+Non-Form beans are created using an
+[HttpMessageConverter](https://docs.spring.io/spring/docs/current/javadoc-api/org/springframework/http/converter/HttpMessageConverter.html). 
+Spring Boot exposes the `MappingJackson2HttpMessageConverter` which handles the
+JSON mapping magic.
 
 First thing I wanted to do was to stop using `Map<String, Object>` datatypes and
 to make a proper model object. Using `Map<String, Object>` is a handy trick
@@ -340,8 +342,9 @@ want the `WebDataBinder` to materialize the `SlackSlashCommand`. We'll have
 a custom `HandlerMethodArgumentResolver` do that for us.
 
 Note: In order to exercise all of the approaches in the
-[slack-slash-command-example](), the `SlackSlashCommand` class is basically the
-same as the `FormSlackSlashCommand` class, except that it does not extend
+[slack-slash-command-example](https://github.com/dogeared/slack-slash-command-example),
+the `SlackSlashCommand` class is basically the same as the
+`FormSlackSlashCommand` class, except that it does not extend
 `AbstractFormSlackSlashCommand`.
 
 Here's the `HandleMethodArgumentResolver`:
