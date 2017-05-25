@@ -523,7 +523,7 @@ In your controller, you would simply use the `@ModelAttribute` annotation and
 you'd be done.
 
 That would truly make Form handling as civilized as JSON handling already is in
-Sprint Boot.
+Spring Boot.
 
 All of the code mentioned in this post can be found in the
 [slack-slash-command-example](https://github.com/dogeared/slack-slash-command-example)
