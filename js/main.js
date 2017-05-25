@@ -9,6 +9,7 @@ $(document).ready(function () {
       $('.panel-cover').addClass('panel-cover--collapsed')
       $('.content-wrapper').addClass('animated slideInRight')
     } else {
+      $('.panel-cover').addClass('panel-cover--collapsed')
       $('.panel-cover').css('max-width', currentWidth)
       $('.panel-cover').animate({'max-width': '530px', 'width': '40%'}, 400, swing = 'swing', function () {})
     }
@@ -40,5 +41,8 @@ $(document).ready(function () {
     $('#user-image-' + img).fadeIn(1000);
   });
 
-  setTimeout(function () { $('a.blog-button').click(); }, 3000);
+  setTimeout(function () {
+    if ($('.panel-cover').hasClass('panel-cover--collapsed')) return
+    $('a.blog-button').click();
+  }, 3000);
 })
