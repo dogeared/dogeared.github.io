@@ -34,9 +34,11 @@ $(document).ready(function () {
 
   $('#user-image')
   .delay(1500)
-  .fadeOut(1000, function() {
+  .fadeOut(1000, function () {
     var num = Math.floor(Math.random() * 100) + 1
     var img = (num%2 == 0) ? 'good' : 'bad';
     $('#user-image-' + img).fadeIn(1000);
   });
+
+  setTimeout(function () { $('a.blog-button').click(); }, 3000);
 })
