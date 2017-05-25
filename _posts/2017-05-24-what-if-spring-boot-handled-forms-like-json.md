@@ -98,7 +98,7 @@ content type.
 params as form input rather than JSON."
 
 I can hit my API again, with `application/x-www-form-urlencoded` by simply
-adding `--form` to the command line:
+adding <span style="white-space:nowrap;">`--form`</span> to the command line:
 
 {% highlight bash %}
 http --form POST localhost:8080/api/v1/slack \
