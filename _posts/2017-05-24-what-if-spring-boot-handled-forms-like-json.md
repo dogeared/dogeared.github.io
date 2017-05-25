@@ -12,6 +12,10 @@ What follows is an unexpected journey to some of the inner workings of Spring
 Boot. In particular, how it handles materializing POJOs from an incoming HTTP
 request. It all started with an innocent look at the Slack API...
 
+All of the code mentioned in this post can be found in the
+[slack-slash-command-example](https://github.com/dogeared/slack-slash-command-example)
+github repo.
+
 I use [Slack](https://slack.com/). A lot. I'm currently in 12 slack orgs.
 One of them is even a paid org! I thought I'd play around with the Slack API
 and I started with
@@ -522,3 +526,7 @@ you'd be done.
 
 That would truly make Form handling as civilized as JSON handling already is in
 Sprint Boot.
+
+All of the code mentioned in this post can be found in the
+[slack-slash-command-example](https://github.com/dogeared/slack-slash-command-example)
+github repo.
