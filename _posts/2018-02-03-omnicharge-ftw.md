@@ -117,5 +117,9 @@ Full stats on the iMuto 16,750 can be found [here](https://www.amazon.com/16750m
 
 ## Power Nerds, Unite!
 
+I am accumulating quite a bit of USB-C powered devices. The most recent is a
+Nintendo Switch. While I have not yet tried to use the omni 20 with it, I am
+sure it will work like a champ when I want it to.
+
 Do you nerd out over power backup solutions too? I'd love to hear your
 experiences in the comments section below.
