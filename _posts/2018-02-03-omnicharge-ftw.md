@@ -88,7 +88,7 @@ When I say, "under load", I mean it! I started the test at the beginning of a
 7-hour screenshare, during which time I was teaching a course. In addition to
 screen sharing, I was running Powerpoint and I was connected to a virtual 
 machine environment - effectively screesharing a remote screen! And, I was
-driving to external 27" displays in addition to the built-in display.
+driving two external 27" displays in addition to the built-in display.
 
 The omni 20 usb-c lasted for 1 hour, 45 minutes. I'm quite pleased with that
 result as the conditions that I would normally be using the battery backup in
