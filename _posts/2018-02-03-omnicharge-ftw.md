@@ -91,7 +91,7 @@ machine environment - effectively screesharing a remote screen! And, I was
 driving two external 27" displays in addition to the built-in display.
 
 The omni 20 usb-c lasted for 1 hour, 45 minutes. I'm quite pleased with that
-result as the conditions that I would normally be using the battery backup in
+result as the conditions that I would normally be using the battery backup under
 would be much less severe. My most common use for this will be on a long flight,
 where I'd have the screen brightness lower than normal and I would not be
 sharing my screen or driving external displays.
