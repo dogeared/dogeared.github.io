@@ -114,3 +114,8 @@ It has two USB-C ports and two USB-A ports.
 Full stats on the omni 20 usb-c can be found [here](https://www.omnicharge.co/omni-20-usb-c).
 
 Full stats on the iMuto 16,750 can be found [here](https://www.amazon.com/16750mAh-Portable-Charger-Nintendo-External/dp/B01KHDFXCE).
+
+## Power Nerds, Unite!
+
+Do you nerd out over power backup solutions too? I'd love to hear your
+experiences in the comments section below.
