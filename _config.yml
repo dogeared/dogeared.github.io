@@ -4,7 +4,7 @@ description: >
   I'm a technology junkie, maker, fitness enthusiast and life long chaotic neutral.
   I love java, motor cycling, jogging, spring boot, rowing, mongodb, biking, node.js, hiking, clojure and lifting, to name a few.
 url: 'https://afitnerd.com'
-baseurl: '/'
+baseurl: ''
 google_analytics: 'UA-30163309-1'
 disqus_shortname: 'afitnerd'
 
