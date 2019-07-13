@@ -28,7 +28,7 @@ When I arrive at a hotel, I like to make it my own. It usually takes me 5 - 10 m
 
 ### Hotels have Shitty Internet
 
-Hotel WiFi tends to be slow at best, and insecure at worst. Using a VPN on hotel WiFi can make it even slower. Fortunately, most hotels have a wired connection. That's why I travel with a [TP-Link]() compact wireless router. This serves two purposes. The first is that I get better speed. The second is that all my devices are already to connect to the WPA2 protected network. This alleviates the need to navigate the usually terrible captive portal flow on devices like my Amazon FireTV Stick.
+Hotel WiFi tends to be slow at best, and insecure at worst. Using a VPN on hotel WiFi can make it even slower. Fortunately, most hotels have a wired connection. That's why I travel with a [TP-Link]() compact wireless router. This serves two purposes. The first is that I get better speed. The second is that all my devices are all ready to connect to the WPA2 protected network. This alleviates the need to navigate the usually terrible captive portal flow on devices like my Amazon FireTV Stick.
 
 This brings me to the next point.
 
