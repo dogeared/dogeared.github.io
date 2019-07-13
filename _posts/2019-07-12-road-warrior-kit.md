@@ -28,13 +28,13 @@ When I arrive at a hotel, I like to make it my own. It usually takes me 5 - 10 m
 
 ### Hotels have Shitty Internet
 
-Hotel WiFi tends to be slow at best, and insecure at worst. Using a VPN on hotel WiFi can make it even slower. Fortunately, most hotels have a wired connection. That's why I travel with a [TP-Link]() compact wireless router. This serves two purposes. The first is that I get better speed. The second is that all my devices are all ready to connect to the WPA2 protected network. This alleviates the need to navigate the usually terrible captive portal flow on devices like my Amazon FireTV Stick.
+Hotel WiFi tends to be slow at best, and insecure at worst. Using a VPN on hotel WiFi can make it even slower. Fortunately, most hotels have a wired connection. That's why I travel with a [TP-Link](https://www.amazon.com/gp/product/B01N5RCZQH/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1) compact wireless router. This serves two purposes. The first is that I get better speed. The second is that all my devices are all ready to connect to the WPA2 protected network. This alleviates the need to navigate the usually terrible captive portal flow on devices like my Amazon FireTV Stick.
 
 This brings me to the next point.
 
 ### Hotels have Shitty TV
 
-There. I said it! As much as I love Mario Lopez, I'm tired of him being the first thing I see when I turn on a hotel tv. I cut cable a long time ago. I'm a creature of habit and I don't like to have to endure commercials and E! entertainment just because I am at a hotel. One of the first things I do is pop my [Amazon FireTV Stick] into an available port on the TV.
+There. I said it! As much as I love Mario Lopez, I'm tired of him being the first thing I see when I turn on a hotel tv. I cut cable a long time ago. I'm a creature of habit and I don't like to have to endure commercials and E! entertainment just because I am at a hotel. One of the first things I do is pop my [Amazon FireTV Stick](https://www.amazon.com/Fire-TV-Stick-with-Alexa-Voice-Remote/dp/B0791TX5P5/ref=sr_1_1?keywords=fire+tv+stick&qid=1561412112&s=gateway&sr=8-1) into an available port on the TV.
 
 My favorite hotels have a module - often embedded in furniture - that allows you to plug an HDMI device right in. Often times, I have to go hunting around the back of the TV for an available port.
 
