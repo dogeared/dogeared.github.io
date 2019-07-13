@@ -5,6 +5,9 @@ date:   2019-07-12 09:00:00 -0400
 categories: [technology]
 tags: [travel]
 ---
+
+![tplink](/images/road-warrior/tplink.png){:width="300"}
+
 I've now been a full time Developer Evangelist for 4 years (at two different companies). Over this period of time, my travel requirements have steadily increased. At this point I am averaging travel two out of four weeks every month and over the next two months, I will be in ten different locations, including international travel to Australia.
 
 Like most people in Developer Evangelism (or Developer Relations or Developer Advocacy), my travel expenses are covered by the company I work for. So, clean, decent hotels are the baseline. I am very particular about my "creature comforts" when I travel, and most hotels - even great ones - tend to fall short.
