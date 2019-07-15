@@ -42,7 +42,7 @@ Occasionally, a hotel will have any access to ports on the TV blocked off. That'
 
 ### Hotels are Mad Dry
 
-I rarely get sick. But, I've been getting sicker more often as I amp up my travel schedule. Being trapped in a metal test tube with everyone elses germs and then going to a dusty, dry hotel - well, it's enough to turn anyone into a germophobe.
+I rarely get sick. But, I've been getting sicker more often as I amp up my travel schedule. Being trapped in a metal test tube with everyone else's germs and then going to a dusty, dry hotel - well, it's enough to turn anyone into a germophobe.
 
 I found this great little [travel humidifier](https://www.amazon.com/dp/B07NSPG2SZ?tag=kit-gl-20) that Feng Shui's up the hotel room
 a bit. It may be psychosomatic, but I don't get dry throat or cough when I use it on the road.
