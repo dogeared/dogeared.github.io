@@ -28,23 +28,23 @@ When I arrive at a hotel, I like to make it my own. It usually takes me 5 - 10 m
 
 ### Hotels have Shitty Internet
 
-Hotel WiFi tends to be slow at best, and insecure at worst. Using a VPN on hotel WiFi can make it even slower. Fortunately, most hotels have a wired connection. That's why I travel with a [TP-Link](https://www.amazon.com/gp/product/B01N5RCZQH/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1) compact wireless router. This serves two purposes. The first is that I get better speed. The second is that all my devices are all ready to connect to the WPA2 protected network. This alleviates the need to navigate the usually terrible captive portal flow on devices like my Amazon FireTV Stick.
+Hotel WiFi tends to be slow at best, and insecure at worst. Using a VPN on hotel WiFi can make it even slower. Fortunately, most hotels have a wired connection. That's why I travel with a [TP-Link](https://amzn.to/2SiuAWt) compact wireless router. This serves two purposes. The first is that I get better speed. The second is that all my devices are all ready to connect to the WPA2 protected network. This alleviates the need to navigate the usually terrible captive portal flow on devices like my Amazon FireTV Stick.
 
 This brings me to the next point.
 
 ### Hotels have Shitty TV
 
-There. I said it! As much as I love Mario Lopez, I'm tired of him being the first thing I see when I turn on a hotel tv. I cut cable a long time ago. I'm a creature of habit and I don't like to have to endure commercials and E! entertainment just because I am at a hotel. One of the first things I do is pop my [Amazon FireTV Stick](https://www.amazon.com/Fire-TV-Stick-with-Alexa-Voice-Remote/dp/B0791TX5P5/ref=sr_1_1?keywords=fire+tv+stick&qid=1561412112&s=gateway&sr=8-1) into an available port on the TV.
+There. I said it! As much as I love Mario Lopez, I'm tired of him being the first thing I see when I turn on a hotel tv. I cut cable a long time ago. I'm a creature of habit and I don't like to have to endure commercials and E! entertainment just because I am at a hotel. One of the first things I do is pop my [Amazon FireTV Stick](https://amzn.to/2Y1k4Iv) into an available port on the TV.
 
 My favorite hotels have a module - often embedded in furniture - that allows you to plug an HDMI device right in. Often times, I have to go hunting around the back of the TV for an available port.
 
-Occasionally, a hotel will have any access to ports on the TV blocked off. That's why I bought this cheap [HDMI coupler](https://www.amazon.com/AmazonBasics-HDMI-Coupler-Pack-Black/dp/B06XR8RBTQ). In these cases, I can just hijack the HDMI cable coming out of the cable box and connect it to my FireTV without needing access to the back of the TV.
+Occasionally, a hotel will have any access to ports on the TV blocked off. That's why I bought this cheap [HDMI coupler](https://amzn.to/2XNZQT6). In these cases, I can just hijack the HDMI cable coming out of the cable box and connect it to my FireTV without needing access to the back of the TV.
 
 ### Hotels are Mad Dry
 
 I rarely get sick. But, I've been getting sicker more often as I amp up my travel schedule. Being trapped in a metal test tube with everyone else's germs and then going to a dusty, dry hotel - well, it's enough to turn anyone into a germophobe.
 
-I found this great little [travel humidifier](https://www.amazon.com/dp/B07NSPG2SZ?tag=kit-gl-20) that Feng Shui's up the hotel room
+I found this great little [travel humidifier](https://amzn.to/2XHNTOO) that Feng Shui's up the hotel room
 a bit. It may be psychosomatic, but I don't get dry throat or cough when I use it on the road.
 
 As an aside, I use the [Quip](https://www.getquip.com/rf?referral_code=tqmmhjkv) toothbrush (full disclosure - that is an affiliate link). It turns out that the plastic tube the Quip comes in is perfect for keeping long body of the humidifier in. You just have to be careful to let it dry out from time to time so you don't end up with a science experiment.
@@ -55,19 +55,19 @@ It seems that most of the hotels I stay at - even really nice ones fall into two
 
 This is something that's improving as a number of hotels I've stayed at recently have clocks or lamps with power outlets and USB ports.
 
-I travel with this [5 outlet](https://www.amazon.com/dp/B074MPZ21B?tag=kit-gl-20) wonder. In addition to the 5 3-prong power outlets, it has a retractable cord, 2 USB-A ports and even a USB-C port. I will sacrifice a lamp on the night table to have this plugged in.
+I travel with this [5 outlet](https://amzn.to/2xOSYWb) wonder. In addition to the 5 3-prong power outlets, it has a retractable cord, 2 USB-A ports and even a USB-C port. I will sacrifice a lamp on the night table to have this plugged in.
 
 ### Honorable Mentions
 
 There's a whole bunch of other kit I have with me to make traveling easy and functional.
 
-I use the [eBags Professional Slim Laptop Backpack](https://www.ebags.com/product/ebags/tls-professional-slim-laptop-backpack/249582?productid=10230513). It's got a ton of storage while still being reasonably slim. It always fits under the seat on the airplane.
+I use the [eBags Professional Slim Laptop Backpack](https://amzn.to/2XM5uVJ). It's got a ton of storage while still being reasonably slim. It always fits under the seat on the airplane.
 
-I love the Omnicharge product line and I've backed their products on Kickstarter. The one I use now is the [Omni 20+](https://www.amazon.com/dp/B072JWN6LC?tag=kit-gl-20). It's beefy 20,000mAh battery is in a lean enclosure with an unholy number of ports, including USB-C, USB-A and a standard 3-prong 120V outlet. You can plug nearly anything into it and charge it via nearly any of its ports. I can run my 15" MacBook Pro off it for nearly 2 hours. It even has 10W wireless charging. I can just place my phone on top of it and bam - it's charging.
+I love the Omnicharge product line and I've backed their products on Kickstarter. The one I use now is the [Omni 20+](https://amzn.to/2LoT7sl). It's beefy 20,000mAh battery is in a lean enclosure with an unholy number of ports, including USB-C, USB-A and a standard 3-prong 120V outlet. You can plug nearly anything into it and charge it via nearly any of its ports. I can run my 15" MacBook Pro off it for nearly 2 hours. It even has 10W wireless charging. I can just place my phone on top of it and bam - it's charging.
 
-I always have a couple of [retractable ethernet cables](https://www.amazon.com/dp/B017OEB32I?tag=kit-gl-20) on me to use when I'm onsite with a customer or in the hotel room using my WiFi router.
+I always have a couple of [retractable ethernet cables](https://amzn.to/2XOQZRh) on me to use when I'm onsite with a customer or in the hotel room using my WiFi router.
 
-Getting the right size travel containers for shampoo, body wash, etc. can be a pain. It needs to be 3oz or less to be in my carry-on. It needs to be totally leak proof. These [silicon travel tubes](https://www.amazon.com/dp/B006ZTBW0C?tag=kit-gl-20) do the trick nicely.
+Getting the right size travel containers for shampoo, body wash, etc. can be a pain. It needs to be 3oz or less to be in my carry-on. It needs to be totally leak proof. These [silicon travel tubes](https://amzn.to/2XHO8tc) do the trick nicely.
 
 ## The Full Travel Kit
 
@@ -76,17 +76,17 @@ I hope this post helps you if you travel a lot as I do.
 Here's the full list of my travel gear:
 
 * [The Bigger Carry-on from Away](https://www.awaytravel.com/suitcases/bigger-carry-on)
-* [eBags Professional Slim Laptop Backpack](https://www.ebags.com/product/ebags/tls-professional-slim-laptop-backpack/249582?productid=10230513)
-* [Omni 20+ AC/DC/USB-C Portable Power Bank](https://www.amazon.com/Omnicharge-AC-Portable-Power-Bank/dp/B072JWN6LC)
-* [Travel Power Strip 5 Outlet Surge Protector with Retractable Cord Smart USB Ports and Type-C Port](https://www.amazon.com/gp/product/B074MPZ21B/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
-* [TP-Link AC750 Wireless Portable Nano Travel Router](https://www.amazon.com/gp/product/B01N5RCZQH/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
-* [Cable Matters 2-Pack Retractable Ethernet Cable](https://www.amazon.com/gp/product/B017OEB32I/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
-* [Amazon Fire TV Stick](https://www.amazon.com/Fire-TV-Stick-with-Alexa-Voice-Remote/dp/B0791TX5P5/ref=sr_1_1?keywords=fire+tv+stick&qid=1561412112&s=gateway&sr=8-1)
+* [eBags Professional Slim Laptop Backpack](https://amzn.to/2XM5uVJ)
+* [Omni 20+ AC/DC/USB-C Portable Power Bank](https://amzn.to/2LoT7sl)
+* [Travel Power Strip 5 Outlet Surge Protector with Retractable Cord Smart USB Ports and Type-C Port](https://amzn.to/2xOSYWb)
+* [TP-Link AC750 Wireless Portable Nano Travel Router](https://amzn.to/2SiuAWt)
+* [Cable Matters 2-Pack Retractable Ethernet Cable](https://amzn.to/2XOQZRh)
+* [Amazon Fire TV Stick](https://amzn.to/2Y1k4Iv)
 * [Quip Electric toothbrush](https://getquip.com/rf?referral_code=tqmmhjkv)
-* [USB Cool Mist Humidifier Travel Air Humidifier](https://www.amazon.com/dp/B07NSPG2SZ?ref=ppx_pop_mob_ap_share)
-* [AmazonBasics Hanging Travel Toiletry Kit Bag](https://www.amazon.com/gp/product/B00WTHIVHQ/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
-* [Gear Silicone Squeezable Travel Tubes](https://www.amazon.com/Gear-Go-Gear-Silicone-Squeezable-Travel/dp/B006ZTBW0C/ref=sr_1_3?keywords=cool+gear+travel+bottles&qid=1561474371&s=gateway&sr=8-3)
-* [AmazonBasics HDMI Coupler (2 Pack)](https://www.amazon.com/AmazonBasics-HDMI-Coupler-Pack-Black/dp/B06XR8RBTQ)
+* [USB Cool Mist Humidifier Travel Air Humidifier](https://amzn.to/2XHNTOO)
+* [AmazonBasics Hanging Travel Toiletry Kit Bag](https://amzn.to/2Y5kgqe)
+* [Gear Silicone Squeezable Travel Tubes](https://amzn.to/2XHO8tc)
+* [AmazonBasics HDMI Coupler (2 Pack)](https://amzn.to/2XNZQT6)
 
 I've also organized this on [kit](https://kit.com/dogeared/travel-kit) where you can see all the items in one place.
 
