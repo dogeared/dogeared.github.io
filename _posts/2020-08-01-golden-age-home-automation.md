@@ -2,8 +2,8 @@
 layout: post
 title:  "We're in a Golden Age of Home Automation"
 date:   2020-08-01 09:00:00 -0400
-categories: [tech diy]
-tags: [travel]
+categories: [technology]
+tags: [tech diy]
 ---
 
 ![robot](/images/golden-age-home-automation/robot.jpg){:width="400"}
