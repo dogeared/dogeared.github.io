@@ -2,7 +2,7 @@
 layout: post
 title:  "We're in a Golden Age of Home Automation"
 date:   2020-08-01 09:00:00 -0400
-categories: [technology]
+categories: [tech diy]
 tags: [travel]
 ---
 
