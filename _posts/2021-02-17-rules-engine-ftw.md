@@ -113,7 +113,8 @@ Here's the real meat of the tests: the set up.
 
 ```java
 private void setupRequest(
-    Status personResponseStatus, Status filmsResponseStatus, Status speciesResponseStatus
+    Status personResponseStatus, Status filmsResponseStatus, 
+    Status speciesResponseStatus
 ) {
     PersonResponse personResponse = (personResponseStatus == Status.SUCCESS) ?
         new PersonResponse(
