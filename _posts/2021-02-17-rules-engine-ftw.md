@@ -128,7 +128,9 @@ private void setupRequest(
         new SpeciesResponse(
             Status.SUCCESS, HttpStatus.SC_OK, "success", species
         ) :
-        new SpeciesResponse(Status.FAILURE, HttpStatus.SC_BAD_REQUEST, "failure");
+        new SpeciesResponse(
+            Status.FAILURE, HttpStatus.SC_BAD_REQUEST, "failure"
+        );
 
     when(ghibliService.findPersonByName(NAME)).thenReturn(personResponse);
     when(ghibliService.listFilmsByUrls(FILM_URLS)).thenReturn(filmsResponse);
