@@ -6,6 +6,8 @@ categories: [programming, java, spring boot]
 tags: [programming, java, spring boot]
 ---
 
+![robot](/images/rules-engine/rules.jpeg){:width="400"}
+
 Recently, I wrote an API that I am very proud of. It's got 97% test coverage. It aggregates a number of other APIs to accomplish a complicated flow in just two calls. It makes use of two-factor authentication for verification purposes.
 
 I didn't like how long and branchy my controller code was, though. I started to search around for design patterns or approaches that would enable me to get rid of all the `if`s. I found this [excellent post on Baeldung](https://www.baeldung.com/java-replace-if-statements) that led me to the Rule Engine pattern. From the post: **A *RuleEngine* evaluates the *Rules* and returns the result based on the input.** In the example, each rule's evaluate method returns `true` or `false`. Once any of the rules evaluates to `true`, processing in the *RuleEngine* stops. If none of the rules evaluates to `true`, then an Exception is thrown.
@@ -49,24 +51,30 @@ Here's my first pass at the controller method:
 ```java
 @PostMapping(PERSON_ENDPOINT)
 public ServiceHttpResponse findPerson(@RequestBody KeyValueFieldsRequest request, HttpServletResponse response) {
-    PersonResponse personResponse = ghibliService.findPersonByName(request.getByName("name"));
+    PersonResponse personResponse = ghibliService.findPersonByName(
+        request.getByName("name")
+    );
     if (personResponse.getStatus() == ServiceHttpResponse.Status.FAILURE) {
         return setStatusAndReturn(personResponse, response);
     }
     Person person = personResponse.getPerson();
-    FilmsResponse filmsResponse = ghibliService.listMoviesByUrls(person.getFilmUrls());
+    FilmsResponse filmsResponse = ghibliService.listMoviesByUrls(
+        person.getFilmUrls()
+    );
     if (filmsResponse.getStatus() == ServiceHttpResponse.Status.FAILURE) {
         return setStatusAndReturn(filmsResponse, response);
     }
     List<Film> films = filmsResponse.getFilms();
-    SpeciesResponse speciesResponse = ghibliService.findSpeciesByUrl(person.getSpeciesUrl());
+    SpeciesResponse speciesResponse = ghibliService.findSpeciesByUrl(
+        person.getSpeciesUrl()
+    );
     if (speciesResponse.getStatus() == ServiceHttpResponse.Status.FAILURE) {
         return setStatusAndReturn(speciesResponse, response);
     }
     Species species = speciesResponse.getSpecies();
     return setStatusAndReturn(new CompositeResponse(
-        ServiceHttpResponse.Status.SUCCESS, HttpStatus.SC_OK, "success",
-        person, films, species
+        ServiceHttpResponse.Status.SUCCESS, HttpStatus.SC_OK, 
+        "success", person, films, species
     ), response);
 }
 ```
@@ -108,18 +116,24 @@ private void setupRequest(
     Status personResponseStatus, Status filmsResponseStatus, Status speciesResponseStatus
 ) {
     PersonResponse personResponse = (personResponseStatus == Status.SUCCESS) ?
-        new PersonResponse(Status.SUCCESS, HttpStatus.SC_OK, "success", person) :
+        new PersonResponse(
+            Status.SUCCESS, HttpStatus.SC_OK, "success", person
+        ) :
         new PersonResponse(Status.FAILURE, HttpStatus.SC_NOT_FOUND, "failure");
     FilmsResponse filmsResponse = (filmsResponseStatus == Status.SUCCESS) ?
         new FilmsResponse(Status.SUCCESS, HttpStatus.SC_OK, "success", films) :
         new FilmsResponse(Status.FAILURE, HttpStatus.SC_BAD_REQUEST, "failure");
-    SpeciesResponse speciesResponse = (speciesResponseStatus == Status.SUCCESS) ?
-        new SpeciesResponse(Status.SUCCESS, HttpStatus.SC_OK, "success", species) :
+    SpeciesResponse speciesResponse = 
+        (speciesResponseStatus == Status.SUCCESS) ?
+        new SpeciesResponse(
+            Status.SUCCESS, HttpStatus.SC_OK, "success", species
+        ) :
         new SpeciesResponse(Status.FAILURE, HttpStatus.SC_BAD_REQUEST, "failure");
 
     when(ghibliService.findPersonByName(NAME)).thenReturn(personResponse);
     when(ghibliService.listFilmsByUrls(FILM_URLS)).thenReturn(filmsResponse);
-    when(ghibliService.findSpeciesByUrl(SPECIES_URL)).thenReturn(speciesResponse);
+    when(ghibliService.findSpeciesByUrl(SPECIES_URL))
+        .thenReturn(speciesResponse);
 }
 ```
 This method takes three parameters to indicate the expected status of the service calls in the chain of calls that are made in the controller. This makes it easy to have multiple tests with
@@ -263,7 +277,9 @@ public class PersonResponseStep implements Step {
 
     @Override
     public Status evaluate(KeyValueFieldsRequest request) {
-        personResponse = ghibliService.findPersonByName(request.getByName("name"));
+        personResponse = ghibliService.findPersonByName(
+            request.getByName("name")
+        );
         return personResponse.getStatus();
     }
 
@@ -317,10 +333,14 @@ This is all pretty straightforward so far, but there's a problem that you run in
 Look at this snippet from the original controller method:
 
 ```java
-        PersonResponse personResponse = ghibliService.findPersonByName(request.getByName("name"));
+        PersonResponse personResponse = ghibliService.findPersonByName(
+            request.getByName("name")
+        );
         ...
         Person person = personResponse.getPerson();
-        FilmsResponse filmsResponse = ghibliService.listFilmsByUrls(person.getFilmUrls());
+        FilmsResponse filmsResponse = ghibliService.listFilmsByUrls(
+            person.getFilmUrls()
+        );
 ```
 
 Here, we're passing the result of one service call into the method of the next service call.
@@ -382,7 +402,9 @@ public class PersonResponseStep extends BasicStep {
     ...
     @Override
     public Status evaluate(KeyValueFieldsRequest request) {
-        personResponse = ghibliService.findPersonByName(request.getByName("name"));
+        personResponse = ghibliService.findPersonByName(
+            request.getByName("name")
+        );
         saveState(PERSON_KEY, personResponse.getPerson());
         return personResponse.getStatus();
     }
@@ -454,7 +476,7 @@ private ResultActions doPerformByEngine() throws Exception {
 
 Now I can run tests against both endpoints and they should all pass. And, as you can see below, they all do!
 
-![ghibli all tests](/images/ghibli_alltests.png)
+![ghibli all tests](/images/rules-engine/ghibli_alltests.png)
 
 ## Get Your Engines running
 
