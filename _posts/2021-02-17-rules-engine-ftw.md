@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Use a Rules Engine to Write Better Code"
-date:   2021-02-18 09:00:00 -0400
+date:   2021-02-17 09:00:00 -0400
 categories: [programming, java, spring boot]
 tags: [programming, java, spring boot]
 ---
