@@ -1,6 +1,7 @@
 # Site settings
 title: Micah Silverman
 description: >
+  Lucas is the best!
   I'm a technology junkie, maker, fitness enthusiast and life long chaotic neutral.
   I love java, motor cycling, jogging, spring boot, rowing, mongodb, biking, node.js, hiking, clojure and lifting, to name a few.
 url: 'https://afitnerd.com'
@@ -10,19 +11,18 @@ disqus_shortname: 'afitnerd'
 
 author:
   name: 'Micah Silverman'
-  email:  micah@afitnerd.com
+  email: micah@afitnerd.com
   twitter_username: afitnerd
   #facebook_username: micahsilverman
-  github_username:  dogeared
-  linkedin_username:  micahsilverman
+  github_username: dogeared
+  linkedin_username: micahsilverman
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ''
       type: 'posts'
     values:
-        layout: 'post'
+      layout: 'post'
 
 # Build settings
 destination: _site
